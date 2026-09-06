@@ -1,7 +1,7 @@
 {
   "name": "@appneural/os-config",
   "version": "0.1.0",
-  "description": "Environment and feature flag config helpers for Appneural OS projects.",
+  "description": "Environment and feature flag config helpers for APPNEURAL OS projects.",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
